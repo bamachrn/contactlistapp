@@ -1,0 +1,28 @@
+{
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "contactlistappforcodeship",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.2",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.3",
+    "mongojs": "^0.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm -v",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhavjain882/Contactlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavjain882/Contactlist/issues"
+  },
+  "homepage": "https://github.com/vaibhavjain882/Contactlist"
+}
